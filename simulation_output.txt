@@ -1,0 +1,14 @@
+AUTOMATIC STREET LIGHT SIMULATION
+----------------------------------
+Time    Dark    Street Light
+10      0       0
+20      1       1
+30      0       0
+40      1       1
+
+Simulation Interpretation
+
+- At 10 ns: Daylight → Light OFF
+- At 20 ns: Darkness → Light ON
+- At 30 ns: Daylight → Light OFF
+- At 40 ns: Darkness → Light ON
